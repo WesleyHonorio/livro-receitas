@@ -5,4 +5,3 @@
  :wave:
 
 - Strogonoff de Frango
-- Pavê
